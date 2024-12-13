@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Create a todo app",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Learn Next.js",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": "9e17",
+      "title": "makan",
+      "completed": false
+    },
+    {
+      "id": "4762",
+      "title": "minum",
+      "completed": false
+    }
+  ]
+}
